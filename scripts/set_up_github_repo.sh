@@ -51,7 +51,7 @@ ReadMe.txt
 # Project data / outputs / local tooling
 res/
 output/
-LUTTTemplate/
+LUTTemplate/
 DICOM/
 Data/
 Brouchures/
